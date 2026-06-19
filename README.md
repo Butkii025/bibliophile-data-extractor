@@ -1,4 +1,4 @@
-# 📚 book-data-extractor
+# 📚 book-data-prediction-analysis
 
 An end-to-end Python data pipeline designed to programmatically extract, normalize, cache, and analyze structured bibliographical data from live web sources. 
 
